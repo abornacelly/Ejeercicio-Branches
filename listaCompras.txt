@@ -3,7 +3,8 @@ Pan
 Lechuga
 Tomate
 Cebolla
-QUeso Cremoso
+Queso Cremoso
 Huevos
-Harina Aceite
+Harina 
+Aceite
 Vinagre
